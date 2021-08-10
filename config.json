@@ -4,7 +4,7 @@
     "unamatasanatarai"
   ],
   "homepage": "https://github.com/unamatasanatarai/karabiner-elements-configuration",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/unamatasanatarai/karabiner-elements-configuration/config.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/unamatasanatarai/karabiner-elements-configuration/master/config.json",
   "rules": [
     {
       "description": "Hyper Mouse and Vim, launch some programs",
