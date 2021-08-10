@@ -7,10 +7,6 @@
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/unamatasanatarai/karabiner-elements-configuration/master/config.json",
   "rules": [
     {
-      "description": "Hyper Mouse and Vim, launch some programs",
-      "manipulators": [{}]
-    },
-    {
       "description": "CAPS_LOCK to HYPER (SHIFT+COMMAND+OPTION+CONTROL) or ESCAPE (If Alone)",
       "manipulators": [
         {
